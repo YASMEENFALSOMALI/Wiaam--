@@ -1,0 +1,26 @@
+{
+  "name": "wiaam-",
+  "version": "1.0.0",
+  "description": "Wiaam (وئام) is a Saudi-first digital health platform that creates one longitudinal patient profile across participating hospitals and clinics. Using National ID or Iqama, it links history, medications, insurance, demographics, dependents, and care activity into one secure record.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YASMEENFALSOMALI/Wiaam-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YASMEENFALSOMALI/Wiaam-/issues"
+  },
+  "homepage": "https://github.com/YASMEENFALSOMALI/Wiaam-#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
